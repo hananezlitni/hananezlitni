@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Hanane 👋
+
+I'm a senior software engineer specialized in JavaScript and CSS. 
+
+Public repos are from university; keeping them up as part of my journey. Newer work coming soon.
 
 <!--
 **hananezlitni/hananezlitni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
